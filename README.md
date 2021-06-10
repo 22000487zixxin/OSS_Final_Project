@@ -15,6 +15,7 @@ Without asking for help or asking questions from anyone around you,
 * You can find out at a glance what clubs our school has
 * Visit the website whenever you want to get information about the clubs you want to know
 * Promotion is also possible at the club level
+* Similar types of clubs are grouped together, so it is easy to compare at once.
 
 ## Presentation Video Address
 * Youtube : 
