@@ -22,3 +22,6 @@ Without asking for help or asking questions from anyone around you,
 
 ## References
 * https://www.raspberrypi.org
+
+## Contact
+* Ji in Yun ( email : 22000487@handong.edu )
