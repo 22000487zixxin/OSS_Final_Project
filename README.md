@@ -29,7 +29,7 @@ Without asking for help or asking questions from anyone around you,
 * Youtube : 
 
 ## References
-* https://www.raspberrypi.org
+* https://projects.raspberrypi.org/en/projects/magazine
 
 ## Contact
 * Ji in Yun ( email : 22000487@handong.edu )
