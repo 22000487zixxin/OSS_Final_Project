@@ -26,7 +26,7 @@ Without asking for help or asking questions from anyone around you,
 6. Go to http://raspberrypi.local/
 
 ## Presentation Video Address
-* Youtube : 
+* Youtube : https://youtu.be/1MT38LY9YAM
 
 ## References
 * https://projects.raspberrypi.org/en/projects/magazine
