@@ -18,14 +18,12 @@ Without asking for help or asking questions from anyone around you,
 * Similar types of clubs are grouped together, so it is easy to compare at once.
 
 ## Approach the website
-1. Go to your raspberry pi server.
-2. Install GItHub on your raspberry pi 
-( $ sudo apt-get install git )
-3. Clone my Git repository on your raspberry pi server repository 
-( $ git clone https://github.com/22000487zixxin/OSS_Final_Project.git )
+1. Log in to your Raspberry Pi server.
+2. Install GItHub on your raspberry pi.
+3. Clone https://github.com/22000487zixxin/OSS_Final_Project.git on your Raspberry Pi's directory.
 4. You can see README.md file and various html files in your repository.
-( $ cd OSS_Final_Project + $ ls )
-5. 
+5. Move or replace the files to /var/www/html
+6. Go to http://raspberrypi.local/
 
 ## Presentation Video Address
 * Youtube : 
