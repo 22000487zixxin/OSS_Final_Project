@@ -17,6 +17,16 @@ Without asking for help or asking questions from anyone around you,
 * Promotion is also possible at the club level
 * Similar types of clubs are grouped together, so it is easy to compare at once.
 
+## Approach the website
+1. Go to your raspberry pi server.
+2. Install GItHub on your raspberry pi 
+( $ sudo apt-get install git )
+3. Clone my Git repository on your raspberry pi server repository 
+( $ git clone https://github.com/22000487zixxin/OSS_Final_Project.git )
+4. You can see README.md file and various html files in your repository.
+( $ cd OSS_Final_Project + $ ls )
+5. 
+
 ## Presentation Video Address
 * Youtube : 
 
